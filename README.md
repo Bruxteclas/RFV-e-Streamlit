@@ -38,6 +38,9 @@ A aplicação gera visualizações interativas e permite o download de resultado
 
 - [Paulo Eduardo](https://github.com/SeuGitHub)
 
-## Licença
+## [Link](https://rfv-e-streamlit.onrender.com)
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Obs: Possa ser que o link para a página web não esteje mais disponível.
+
+
+
