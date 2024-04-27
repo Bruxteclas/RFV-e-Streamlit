@@ -1,4 +1,4 @@
-# Atividade RFV com Streamlit
+ Atividade RFV com Streamlit
 
 Este projeto faz parte de uma atividade para segmentar clientes usando a metodologia RFV (Recência, Frequência e Valor) e visualizações interativas com Streamlit.
 
